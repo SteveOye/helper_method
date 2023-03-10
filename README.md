@@ -1,3 +1,3 @@
-# widget_sample
+# Helper Widget vs Widget
 
-A new Flutter project.
+Improve performace by using seperate widget.
